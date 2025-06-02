@@ -1,4 +1,4 @@
-# Intgeration Suite Iflow extarcting data form API AI and persisting in Datasphere OpenSQL schema
+# Intgeration Suite iflow extarcting data form API AI and persisting in Datasphere OpenSQL schema
 # Introduction
 
 In this post I'm sharing some glimses from a recent project work involving data extraction from ARIBA API into SAP Datasphere OpenSQL schema using Integration suite with a basic dashboard in Analytics cloud. 
