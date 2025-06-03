@@ -16,7 +16,6 @@ While the discovery mission is very detailed , we will observe in the blog post 
 I have used the Purchase orders buyer API which can tested using the free sandbox at api.sap.com 
 
 ## [ARIBA Network Purchase Orders buyer API](https://api.sap.com/api/purchase_orders/overview)
-[Duck Duck Go](https://duckduckgo.com)
 
 
 <img width="1060" alt="Screenshot 2025-05-29 at 5 53 42 PM" src="https://github.com/user-attachments/assets/7485f2be-cf15-4417-8ac9-0c5545fb14fc" />
