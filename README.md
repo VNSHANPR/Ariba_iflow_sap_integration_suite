@@ -61,4 +61,4 @@ Here we see the processDirect Adapter making an internal call to the first iflow
 <img width="915" alt="Screenshot 2025-05-30 at 1 29 37 PM" src="https://github.com/user-attachments/assets/b5f18db2-21e0-46db-8430-5177de089843" />
 
 
-Follow the SAP blog post here for more details : 
+Follow the SAP blog post here for more details : https://community.sap.com/t5/technology-blog-posts-by-sap/ariba-api-data-extraction-amp-reporting-with-sap-btp/ba-p/14114406 
